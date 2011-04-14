@@ -142,7 +142,7 @@ Gem::Specification.new do |s|
   else
     s.add_dependency(%q<spreadsheet>, [">= 0.6.4"])
     s.add_dependency(%q<rubyzip>, [">= 0.9.1"])
-    s.add_dependency(%q<GData>, [">= 0.0.4"])
+    s.add_dependency(%q<GData>, [">= 1.1.1"])
     s.add_dependency(%q<nokogiri>, [">= 1.4.1"])
   end
 end
